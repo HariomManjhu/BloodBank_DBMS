@@ -34,6 +34,6 @@ A structured and normalized **MySQL-based DBMS project** for managing blood dono
 
 ## 🔗 Entity Relationships
 
-![ER Diagram](ER_Diagram.pdf)
+![ER Diagram](relational.pdf)
 
 ---
